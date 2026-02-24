@@ -1,4 +1,4 @@
-# API 
+# API Reference
 
 The DinoSoft public API. All classes
 and functions listed here are importable from the top-level `dinosoft`

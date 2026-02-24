@@ -1,4 +1,4 @@
-# First
+# Quickstart
 
 <!-- TODO: Add front matter with title, description, icon, and status: new
      See: https://squidfunk.github.io/mkdocs-material/reference/#setting-the-page-status -->
